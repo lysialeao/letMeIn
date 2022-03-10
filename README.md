@@ -28,4 +28,4 @@ Tudo foi desenvolvido utilizando o framework React.js e Material Design, junto a
 
 ### Versão futura
 
-Na próxima versão do aplicativo o backend da aplicação deve ser integrado a aplicação.
+Na próxima versão do aplicativo o backend da aplicação deve ser integrado.
